@@ -1,2 +1,3 @@
-# Udemy Course: The Complete Pandas Bootcamp 2022: Data Science with Python
+# The Complete Pandas Bootcamp 2022: Data Science with Python
 ## Instructor: Alexander Hagmann
+https://www.udemy.com/course/the-pandas-bootcamp/
